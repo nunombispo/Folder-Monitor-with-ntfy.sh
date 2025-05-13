@@ -2,6 +2,8 @@
 
 This Python script monitors a folder for file changes and sends push notifications via [ntfy.sh](https://ntfy.sh) when files are created, modified, or deleted.
 
+If these scripts were useful to you, consider donating to support the Developer Service Blog: https://buy.stripe.com/bIYdTrggi5lZamkdQW
+
 ## Features
 
 - Real-time folder monitoring using watchdog
